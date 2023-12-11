@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwitterChallengeResolution</string>
+    <string name="nickname_hour"> %s h </string>
+    <string name="nickname_minutes"> %s min </string>
+</resources>
